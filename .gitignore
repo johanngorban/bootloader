@@ -1,0 +1,14 @@
+
+*.o
+*.txt
+*.crf
+*.hex
+*.bin
+*.htm
+*.axf
+*.map
+*.dep
+/MDK-ARM/br9008-f19-bootloader/
+/MDK-ARM/br9008-f19-bootloader/*.*
+/MDK-ARM/Listings/*.*
+

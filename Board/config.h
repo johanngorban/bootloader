@@ -1,0 +1,12 @@
+#ifndef __BOS_CONFIG_H
+#define __BOS_CONFIG_H
+
+#define PLATFORM_NAME "BOOT_BR9008-F19"
+#define APP_VERSION "1.0.0"
+
+#define APP_SIZE 0x20000
+#define FLASH_ADDR_APP  0x08020000
+#define FLASH_ADDR_DISK 0x08040000
+#define CONSOLE_UART huart1
+
+#endif
